@@ -1,0 +1,21 @@
+<SReports>
+<SReport Date="09/10/15" Time="10:00" Brochures="1" Magazines="5" ReturnVisits="1" Books="1" />
+  <SReport Date="11/10/15" Time="10:00" Brochures="1" Magazines="5" ReturnVisits="1" />
+  <SReport Date="12/10/15" Time="5:30" Brochures="" ReturnVisits="5" Books="1" />
+  <SReport Date="13/10/15" Time="7:30" Brochures="1" ReturnVisits="7" Books="1" />
+  <SReport Date="14/10/15" Time="8:20" Brochures="1" Books="1" />
+  <SReport Date="15/10/15" Time="0:10" />
+  <SReport Date="09/10/15" Time="10:00" Brochures="1" Magazines="5" ReturnVisits="1" Books="1" />
+  <SReport Date="11/10/15" Time="10:00" Brochures="1" Magazines="5" ReturnVisits="1" />
+  <SReport Date="12/10/15" Time="5:30" Brochures="" ReturnVisits="5" Books="1" />
+  <SReport Date="13/10/15" Time="7:30" Brochures="1" ReturnVisits="7" Books="1" />
+  <SReport Date="14/10/15" Time="8:20" Brochures="1" Books="1" />
+  <SReport Date="15/10/15" Time="0:10" />
+  <SReport Date="16/10/15" Time="2:40" Brochures="1" />
+  <SReport Date="17/10/15" Time="3:20" Brochures="1" ReturnVisits="2" />
+  <SReport Date="13/12/15" Time="1:10" Brochures="1" Magazines="1" Books="1" />
+  <SReport Date="15/12/15" Time="9:50" />
+  <SReport Date="16/12/15" Time="5:20" />
+  <SReport Date="17/12/15" Time="2:10" Brochures="1" Magazines="5" ReturnVisits="1" Books="1" />
+  <SReport Date="18/12/15" Time="3:40" Brochures="1" Magazines="5" ReturnVisits="1" />
+</SReports>
