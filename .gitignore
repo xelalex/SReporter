@@ -122,3 +122,4 @@
 /SReporter.DataAccess/obj/Debug/*.txt
 /SReporter.Configuration/obj/Debug/*.txt
 /SReporter.BL/obj/Debug/*.txt
+/.vs/SReporter/v14/*.suo
